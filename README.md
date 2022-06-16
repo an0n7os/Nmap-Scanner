@@ -41,6 +41,6 @@ Its easy to install just follow the step one by one :-
 
 ## Author
 
-* **ASHWINI SAHU** - *WHOLE WORK* - (https://github.com/ASHWIN990)
+* **ASWIN KRISHNA** - *WHOLE WORK* - (https://github.com/an0n7os)
 
 Check NMAP website for more help : (https://nmap.org/)
